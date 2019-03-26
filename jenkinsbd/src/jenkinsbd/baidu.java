@@ -16,7 +16,6 @@ package jenkinsbd;
 			driver=new ChromeDriver();
 			
 			url="www.baidu.com";
-			
 		}
 		@AfterClass
 		public void guanbi() {
